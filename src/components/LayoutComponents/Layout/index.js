@@ -1,6 +1,6 @@
 import React from "react";
 import Routes from "../../../routes";
-import { Link, BrowserRouter as Router } from "react-router-dom";
+import { Link, HashRouter as Router } from "react-router-dom";
 
 class Layout extends React.Component {
   render() {
