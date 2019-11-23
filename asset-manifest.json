@@ -1,30 +1,30 @@
 {
   "files": {
-    "static/js/0.54ce83cd.chunk.js": "/impactguru-assignment/static/js/0.54ce83cd.chunk.js",
-    "static/js/0.54ce83cd.chunk.js.map": "/impactguru-assignment/static/js/0.54ce83cd.chunk.js.map",
-    "main.css": "/impactguru-assignment/static/css/main.564b7475.chunk.css",
-    "main.js": "/impactguru-assignment/static/js/main.20259275.chunk.js",
-    "main.js.map": "/impactguru-assignment/static/js/main.20259275.chunk.js.map",
-    "runtime-main.js": "/impactguru-assignment/static/js/runtime-main.9ff6562d.js",
-    "runtime-main.js.map": "/impactguru-assignment/static/js/runtime-main.9ff6562d.js.map",
-    "static/js/3.43591d81.chunk.js": "/impactguru-assignment/static/js/3.43591d81.chunk.js",
-    "static/js/3.43591d81.chunk.js.map": "/impactguru-assignment/static/js/3.43591d81.chunk.js.map",
-    "static/js/4.3068f7ea.chunk.js": "/impactguru-assignment/static/js/4.3068f7ea.chunk.js",
-    "static/js/4.3068f7ea.chunk.js.map": "/impactguru-assignment/static/js/4.3068f7ea.chunk.js.map",
-    "static/js/5.33dc6b40.chunk.js": "/impactguru-assignment/static/js/5.33dc6b40.chunk.js",
-    "static/js/5.33dc6b40.chunk.js.map": "/impactguru-assignment/static/js/5.33dc6b40.chunk.js.map",
-    "static/js/6.a60e710f.chunk.js": "/impactguru-assignment/static/js/6.a60e710f.chunk.js",
-    "static/js/6.a60e710f.chunk.js.map": "/impactguru-assignment/static/js/6.a60e710f.chunk.js.map",
-    "index.html": "/impactguru-assignment/index.html",
-    "precache-manifest.b50532761fa9518ac934caf3c7db1efb.js": "/impactguru-assignment/precache-manifest.b50532761fa9518ac934caf3c7db1efb.js",
-    "service-worker.js": "/impactguru-assignment/service-worker.js",
-    "static/css/main.564b7475.chunk.css.map": "/impactguru-assignment/static/css/main.564b7475.chunk.css.map",
-    "static/media/logo.svg": "/impactguru-assignment/static/media/logo.25bf045c.svg"
+    "static/js/0.54ce83cd.chunk.js": "/impactguru_assignment/static/js/0.54ce83cd.chunk.js",
+    "static/js/0.54ce83cd.chunk.js.map": "/impactguru_assignment/static/js/0.54ce83cd.chunk.js.map",
+    "main.css": "/impactguru_assignment/static/css/main.564b7475.chunk.css",
+    "main.js": "/impactguru_assignment/static/js/main.341b9f4c.chunk.js",
+    "main.js.map": "/impactguru_assignment/static/js/main.341b9f4c.chunk.js.map",
+    "runtime-main.js": "/impactguru_assignment/static/js/runtime-main.4a59229d.js",
+    "runtime-main.js.map": "/impactguru_assignment/static/js/runtime-main.4a59229d.js.map",
+    "static/js/3.43591d81.chunk.js": "/impactguru_assignment/static/js/3.43591d81.chunk.js",
+    "static/js/3.43591d81.chunk.js.map": "/impactguru_assignment/static/js/3.43591d81.chunk.js.map",
+    "static/js/4.3068f7ea.chunk.js": "/impactguru_assignment/static/js/4.3068f7ea.chunk.js",
+    "static/js/4.3068f7ea.chunk.js.map": "/impactguru_assignment/static/js/4.3068f7ea.chunk.js.map",
+    "static/js/5.33dc6b40.chunk.js": "/impactguru_assignment/static/js/5.33dc6b40.chunk.js",
+    "static/js/5.33dc6b40.chunk.js.map": "/impactguru_assignment/static/js/5.33dc6b40.chunk.js.map",
+    "static/js/6.a60e710f.chunk.js": "/impactguru_assignment/static/js/6.a60e710f.chunk.js",
+    "static/js/6.a60e710f.chunk.js.map": "/impactguru_assignment/static/js/6.a60e710f.chunk.js.map",
+    "index.html": "/impactguru_assignment/index.html",
+    "precache-manifest.e25ea4659ee583c93155d898dbbfbc54.js": "/impactguru_assignment/precache-manifest.e25ea4659ee583c93155d898dbbfbc54.js",
+    "service-worker.js": "/impactguru_assignment/service-worker.js",
+    "static/css/main.564b7475.chunk.css.map": "/impactguru_assignment/static/css/main.564b7475.chunk.css.map",
+    "static/media/logo.svg": "/impactguru_assignment/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ff6562d.js",
+    "static/js/runtime-main.4a59229d.js",
     "static/js/3.43591d81.chunk.js",
     "static/css/main.564b7475.chunk.css",
-    "static/js/main.20259275.chunk.js"
+    "static/js/main.341b9f4c.chunk.js"
   ]
 }
