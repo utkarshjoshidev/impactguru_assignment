@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "471655f3856588377df4f7afd88772f1",
+    "revision": "654343aadd0690bd91ef678d43e0e1c6",
     "url": "/impactguru_assignment/index.html"
   },
   {
-    "revision": "9f534748e59844d5f003",
+    "revision": "7f2396029680bd120268",
     "url": "/impactguru_assignment/static/css/main.564b7475.chunk.css"
   },
   {
@@ -12,28 +12,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/impactguru_assignment/static/js/0.54ce83cd.chunk.js"
   },
   {
-    "revision": "80e3c6eab8bc30979587",
-    "url": "/impactguru_assignment/static/js/3.43591d81.chunk.js"
+    "revision": "fe460201a8ab48cccd8f",
+    "url": "/impactguru_assignment/static/js/3.e79a4789.chunk.js"
   },
   {
     "revision": "1f9d3c05d33a5ef8792e",
     "url": "/impactguru_assignment/static/js/4.3068f7ea.chunk.js"
   },
   {
-    "revision": "54423ca5fcd738203110",
-    "url": "/impactguru_assignment/static/js/5.33dc6b40.chunk.js"
+    "revision": "06d0243509b9a0920215",
+    "url": "/impactguru_assignment/static/js/5.3c7a539a.chunk.js"
   },
   {
     "revision": "547a0f0d96eb17583167",
     "url": "/impactguru_assignment/static/js/6.a60e710f.chunk.js"
   },
   {
-    "revision": "9f534748e59844d5f003",
-    "url": "/impactguru_assignment/static/js/main.341b9f4c.chunk.js"
+    "revision": "7f2396029680bd120268",
+    "url": "/impactguru_assignment/static/js/main.e32b2cbd.chunk.js"
   },
   {
-    "revision": "5b5a6de09322c53aad73",
-    "url": "/impactguru_assignment/static/js/runtime-main.4a59229d.js"
+    "revision": "f7cc08ec50e122e09cf0",
+    "url": "/impactguru_assignment/static/js/runtime-main.49a82f38.js"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
