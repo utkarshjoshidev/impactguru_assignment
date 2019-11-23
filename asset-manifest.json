@@ -1,30 +1,30 @@
 {
   "files": {
-    "static/js/0.54ce83cd.chunk.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/0.54ce83cd.chunk.js",
-    "static/js/0.54ce83cd.chunk.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/0.54ce83cd.chunk.js.map",
-    "main.css": "utkarshjoshidev.github.io/impactguru-assignment/static/css/main.564b7475.chunk.css",
-    "main.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/main.ac6b0c40.chunk.js",
-    "main.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/main.ac6b0c40.chunk.js.map",
-    "runtime-main.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/runtime-main.ccae9ff4.js",
-    "runtime-main.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/runtime-main.ccae9ff4.js.map",
-    "static/js/3.43591d81.chunk.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/3.43591d81.chunk.js",
-    "static/js/3.43591d81.chunk.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/3.43591d81.chunk.js.map",
-    "static/js/4.3068f7ea.chunk.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/4.3068f7ea.chunk.js",
-    "static/js/4.3068f7ea.chunk.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/4.3068f7ea.chunk.js.map",
-    "static/js/5.33dc6b40.chunk.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/5.33dc6b40.chunk.js",
-    "static/js/5.33dc6b40.chunk.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/5.33dc6b40.chunk.js.map",
-    "static/js/6.a60e710f.chunk.js": "utkarshjoshidev.github.io/impactguru-assignment/static/js/6.a60e710f.chunk.js",
-    "static/js/6.a60e710f.chunk.js.map": "utkarshjoshidev.github.io/impactguru-assignment/static/js/6.a60e710f.chunk.js.map",
-    "index.html": "utkarshjoshidev.github.io/impactguru-assignment/index.html",
-    "precache-manifest.ce4c43bfc4bc95b36bb7b963a619b60e.js": "utkarshjoshidev.github.io/impactguru-assignment/precache-manifest.ce4c43bfc4bc95b36bb7b963a619b60e.js",
-    "service-worker.js": "utkarshjoshidev.github.io/impactguru-assignment/service-worker.js",
-    "static/css/main.564b7475.chunk.css.map": "utkarshjoshidev.github.io/impactguru-assignment/static/css/main.564b7475.chunk.css.map",
-    "static/media/logo.svg": "utkarshjoshidev.github.io/impactguru-assignment/static/media/logo.25bf045c.svg"
+    "static/js/0.54ce83cd.chunk.js": "/impactguru-assignment/static/js/0.54ce83cd.chunk.js",
+    "static/js/0.54ce83cd.chunk.js.map": "/impactguru-assignment/static/js/0.54ce83cd.chunk.js.map",
+    "main.css": "/impactguru-assignment/static/css/main.564b7475.chunk.css",
+    "main.js": "/impactguru-assignment/static/js/main.20259275.chunk.js",
+    "main.js.map": "/impactguru-assignment/static/js/main.20259275.chunk.js.map",
+    "runtime-main.js": "/impactguru-assignment/static/js/runtime-main.9ff6562d.js",
+    "runtime-main.js.map": "/impactguru-assignment/static/js/runtime-main.9ff6562d.js.map",
+    "static/js/3.43591d81.chunk.js": "/impactguru-assignment/static/js/3.43591d81.chunk.js",
+    "static/js/3.43591d81.chunk.js.map": "/impactguru-assignment/static/js/3.43591d81.chunk.js.map",
+    "static/js/4.3068f7ea.chunk.js": "/impactguru-assignment/static/js/4.3068f7ea.chunk.js",
+    "static/js/4.3068f7ea.chunk.js.map": "/impactguru-assignment/static/js/4.3068f7ea.chunk.js.map",
+    "static/js/5.33dc6b40.chunk.js": "/impactguru-assignment/static/js/5.33dc6b40.chunk.js",
+    "static/js/5.33dc6b40.chunk.js.map": "/impactguru-assignment/static/js/5.33dc6b40.chunk.js.map",
+    "static/js/6.a60e710f.chunk.js": "/impactguru-assignment/static/js/6.a60e710f.chunk.js",
+    "static/js/6.a60e710f.chunk.js.map": "/impactguru-assignment/static/js/6.a60e710f.chunk.js.map",
+    "index.html": "/impactguru-assignment/index.html",
+    "precache-manifest.5fc519a8f2985b4590d1f2256da4023d.js": "/impactguru-assignment/precache-manifest.5fc519a8f2985b4590d1f2256da4023d.js",
+    "service-worker.js": "/impactguru-assignment/service-worker.js",
+    "static/css/main.564b7475.chunk.css.map": "/impactguru-assignment/static/css/main.564b7475.chunk.css.map",
+    "static/media/logo.svg": "/impactguru-assignment/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccae9ff4.js",
+    "static/js/runtime-main.9ff6562d.js",
     "static/js/3.43591d81.chunk.js",
     "static/css/main.564b7475.chunk.css",
-    "static/js/main.ac6b0c40.chunk.js"
+    "static/js/main.20259275.chunk.js"
   ]
 }
